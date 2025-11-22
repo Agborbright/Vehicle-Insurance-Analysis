@@ -28,13 +28,7 @@ The data was downloaded from Kaggle
 
 
 ## Objective
-The objective of this report was to analyse fraudulent claims and uncover hidden patterns that indicate fraudulent activities. The analysis focuses on identifying which factors such as marital status, vehicle price, driver age, car brand, vehicle age etc are mostly associated with fraudulent claims, helping insurance companies detect and prevent false claims.
-
-
-## The end user should be able to indentify:
-- Total fraud case
-- Deductible
-- Supplemental claims
+The objective of this report was to analyse fraudulent claims and uncover hidden patterns that indicate fraudulent activities. The analysis focuses on identifying which factors such as marital status, vehicle price, driver age, car brand, vehicle age etc are mostly associated with fraudulent claims, helping insurance companies detect and prevent false claims. Most importantly, the company want to know how many fraud cases have been recorded, total deductible amount and how many supplemental claims.
 
 
 ## Problem solved
